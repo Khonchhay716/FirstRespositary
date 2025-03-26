@@ -6,7 +6,6 @@ const merge = () => {
       <h1>test mrge 2 </h1>
       <h1>test mrge 2 </h1>
       <h1>test mrge 2 </h1>
-      <h1>test mrge 2 </h1><h1>test mrge 2 </h1><h1>test mrge 2 </h1>
       <h1>test mrge 2 </h1>
     </div>
   )
